@@ -51,3 +51,6 @@ rsconnect/
 # Simulation output
 results/*
 !results/.gitkeep
+!results/*.csv
+!results/*.pdf
+!results/*.png

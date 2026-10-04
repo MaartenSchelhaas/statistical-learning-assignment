@@ -1,0 +1,13 @@
+"scenario","mechanism","rate","method","n_mean_fallback"
+"B","MAR",0.1,"hybrid",140
+"C","MAR",0.1,"hybrid",102
+"B","MCAR",0.1,"hybrid",3
+"C","MCAR",0.1,"hybrid",12
+"B","MNAR",0.1,"hybrid",110
+"C","MNAR",0.1,"hybrid",18
+"B","MAR",0.3,"hybrid",919
+"C","MAR",0.3,"hybrid",672
+"B","MCAR",0.3,"hybrid",247
+"C","MCAR",0.3,"hybrid",424
+"B","MNAR",0.3,"hybrid",709
+"C","MNAR",0.3,"hybrid",387
